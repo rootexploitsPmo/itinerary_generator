@@ -5,7 +5,7 @@
     <MenuTransport></MenuTransport>
   
   <!-- vista itinerario -->
-  <div class="w-[700px] shadow-2xl rounded-lg p-5">
+  <div class="w-[600px] shadow-2xl rounded-lg p-5">
 <h1 class="flex justify-center">VIEW HTML</h1>
 
 
